@@ -1,0 +1,2 @@
+# nerds
+Training project Nerds
