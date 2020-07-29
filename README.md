@@ -8,3 +8,6 @@
 * JavaScript popup
 * JavaScript filter
 * JavaScript range
+
+### You can run this project locally just do:
+* Load files from https://github.com/AleksandrZanko/nerds
